@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "701473642072",
+    "project_id": "bloggingapp-21de9",
+    "storage_bucket": "bloggingapp-21de9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701473642072:android:05ab021e91c4ac90f1dc2d",
+        "android_client_info": {
+          "package_name": "edu.sti.bloggingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701473642072-3cbcgmplveffmf143q2q2ughka7ml93f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWvAW5aIfStNnXXx_u5ek_13cTb9a1jPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701473642072-3cbcgmplveffmf143q2q2ughka7ml93f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
